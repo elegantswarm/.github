@@ -3,7 +3,7 @@
 
 
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > Soon, AI agents will run SaaS startups end-to-end—faster and at a fraction of the cost. We'Re assembling the team to make this happen.
 
 
